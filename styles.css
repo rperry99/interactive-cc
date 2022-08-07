@@ -1,0 +1,23 @@
+@import url('https://fonts.google.com/specimen/Space+Grotesk');
+
+* {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.card-back {
+    width: 275px;
+    position: relative;
+}
+
+.card-back img {
+    width: 100%;
+}
+
+#cvc {
+    position: absolute;
+    top: 55px;
+    right: 33px;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
