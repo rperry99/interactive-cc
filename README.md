@@ -78,7 +78,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## Author
 
 - Website - [Github](https://github.com/rperry99)
-- Frontend Mentor - [@rperry99](hhttps://www.frontendmentor.io/profile/rperry99)
+- Frontend Mentor - [@rperry99](https://www.frontendmentor.io/profile/rperry99)
 - Twitter - [@russdevs](https://www.twitter.com/russdevs)
 
 
